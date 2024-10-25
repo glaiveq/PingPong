@@ -7,3 +7,7 @@
 !/Source/
 !/Plugins/
 !/PingPong.uproject
+
+# Ignore specific editor files
+.idea/
+*.vsconfig
